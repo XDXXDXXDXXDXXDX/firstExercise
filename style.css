@@ -1,0 +1,38 @@
+.r1 {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin: 10px;
+	background-color: blue;
+}
+
+.r1:hover{ 
+    background-color:red;
+}
+
+.r2 {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin: 10px;
+	background-color: blue;
+}
+
+.r2:hover{
+    border-radius: 50%;
+}
+
+.r3 {
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin: 10px;
+	background-color: blue;
+}
+
+.r3:hover{
+    background-color:transparent;
+}
